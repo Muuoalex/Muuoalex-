@@ -68,4 +68,6 @@ An academic civil engineering project focused on the design and construction of 
 > **"Building skills, creating solutions, and growing every day."**
 
 Thanks for visiting my profile! ⭐
+---
 
+![Profile Views](https://komarev.com/ghpvc/?username=Muuoalex&color=0e75b6&style=for-the-badge&label=PROFILE+VIEWS)
